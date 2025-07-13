@@ -8,10 +8,9 @@ It allows users to search for any city and get the **current weather conditions*
 ## 📌 Features
 
 - 🔍 Search weather by city name
-- 🌡️ Displays temperature, humidity, and weather condition
+- 🌡️ Displays temperature, humidity, and wind speed 
 - 📍 Optionally shows location-based weather 
 - 🌐 Fetches real-time data from OpenWeatherMap API
-- 📱 Responsive design for desktop and mobile
 
 ---
 

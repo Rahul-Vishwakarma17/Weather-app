@@ -15,6 +15,12 @@ It allows users to search for any city and get the **current weather conditions*
 
 ---
 
+## 📸 Screenshot
+
+![App Screenshot](images/screenshot.png)
+
+
+
 ## 🛠️ Technologies Used
 
 - HTML5
